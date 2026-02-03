@@ -1,15 +1,15 @@
 # Dip-Project
-📌 Project Overview
+📌Project Overview
 This project focuses on automatic skin lesion segmentation using Digital Image Processing (DIP) techniques and Python. The goal is to accurately separate the lesion area from dermoscopic images, which is a crucial step in early skin cancer detection.
 ________________________________________
-🛠️ Tools & Technologies Used
+# Tools & Technologies Used
 •	Python
 •	OpenCV (cv2) – image processing
 •	NumPy – numerical operations
 •	Matplotlib – visualization
 •	Scikit-learn – performance evaluation (confusion matrix)
 ________________________________________
-⚙️ Working Methodology
+# Working Methodology
 The project follows these major steps:
 1.	Image Loading
 o	Dermoscopic images and their corresponding ground truth masks are loaded.
@@ -26,17 +26,17 @@ o	A confusion matrix is used to measure performance (accuracy, precision, recall
 5.	Visualization
 o	Original image, grayscale image, segmented output, and ground truth are displayed for comparison.
 ________________________________________
-📊 Key Factors Considered
+# Key Factors Considered
 •	Image quality and resolution
 •	Preprocessing effectiveness
 •	Accuracy of segmentation
 •	Comparison with ground truth data
 •	Computational simplicity and efficiency
 ________________________________________
-✅ Results
+# Results
 The system successfully highlights lesion regions and provides a reliable segmentation output. Performance evaluation helps analyze the correctness of the segmentation process.
 ________________________________________
-🎯 Applications
+# Applications
 •	Medical image analysis
 •	Skin cancer detection support systems
 •	Research and academic projects in DIP & ML
